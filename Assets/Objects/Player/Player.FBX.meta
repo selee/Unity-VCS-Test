@@ -1,0 +1,232 @@
+fileFormatVersion: 1
+guid: df1f47a0a2effe74488d5da197295a19
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.012
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationRotationError: 0.1
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    splitAnimations: 1
+    clips:
+      idle:
+        firstFrame: 0
+        lastFrame: 74
+        loop: 1
+        wrapMode: 2
+      run_forward:
+        firstFrame: 76
+        lastFrame: 94
+        loop: 1
+        wrapMode: 2
+      run_backward:
+        firstFrame: 96
+        lastFrame: 114
+        loop: 1
+        wrapMode: 2
+      run_right:
+        firstFrame: 116
+        lastFrame: 134
+        loop: 1
+        wrapMode: 2
+      run_left:
+        firstFrame: 136
+        lastFrame: 154
+        loop: 1
+        wrapMode: 2
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 11100000
+    player_root:
+    - 100002
+    - 400002
+    Bip001 Footsteps:
+    - 100004
+    - 400004
+    Bip001 R Toe0:
+    - 100012
+    - 400012
+    Bip001 R Foot:
+    - 100014
+    - 400014
+    Bip001 R Calf:
+    - 100016
+    - 400016
+    Bip001 R Thigh:
+    - 100018
+    - 400018
+    Bip001 L Toe0:
+    - 100020
+    - 400020
+    Bip001 L Foot:
+    - 100022
+    - 400022
+    Bip001 L Calf:
+    - 100024
+    - 400024
+    Bip001 L Thigh:
+    - 100026
+    - 400026
+    main_weapon001:
+    - 100028
+    - 400028
+    - 3300010
+    - 2300010
+    Bip001 R Hand:
+    - 100030
+    - 400030
+    Bip001 L Hand:
+    - 100032
+    - 400032
+    Bip001 HeadNub:
+    - 100034
+    - 400034
+    Bip001 Head:
+    - 100036
+    - 400036
+    Bip001 Neck:
+    - 100038
+    - 400038
+    Bip001 Spine1:
+    - 100040
+    - 400040
+    Bip001 Spine:
+    - 100042
+    - 400042
+    Bip001 Pelvis:
+    - 100044
+    - 400044
+    Bip001:
+    - 100046
+    - 400046
+    Bip001 R Toe0Nub:
+    - 100048
+    - 400048
+    Bip001 L Toe0Nub:
+    - 100050
+    - 400050
+    Bip001 R Finger2Nub:
+    - 100052
+    - 400052
+    Bip001 R Finger21:
+    - 100054
+    - 400054
+    Bip001 R Finger2:
+    - 100056
+    - 400056
+    Bip001 R Finger1Nub:
+    - 100058
+    - 400058
+    Bip001 R Finger11:
+    - 100060
+    - 400060
+    Bip001 R Finger1:
+    - 100062
+    - 400062
+    Bip001 R Finger0Nub:
+    - 100064
+    - 400064
+    Bip001 R Finger01:
+    - 100066
+    - 400066
+    Bip001 R Finger0:
+    - 100068
+    - 400068
+    Bip001 R Forearm:
+    - 100070
+    - 400070
+    Bip001 R UpperArm:
+    - 100072
+    - 400072
+    Bip001 R Clavicle:
+    - 100074
+    - 400074
+    Bip001 L Finger2Nub:
+    - 100076
+    - 400076
+    Bip001 L Finger21:
+    - 100078
+    - 400078
+    Bip001 L Finger2:
+    - 100080
+    - 400080
+    Bip001 L Finger1Nub:
+    - 100082
+    - 400082
+    Bip001 L Finger11:
+    - 100084
+    - 400084
+    Bip001 L Finger1:
+    - 100086
+    - 400086
+    Bip001 L Finger0Nub:
+    - 100088
+    - 400088
+    Bip001 L Finger01:
+    - 100090
+    - 400090
+    Bip001 L Finger0:
+    - 100092
+    - 400092
+    Bip001 L Forearm:
+    - 100094
+    - 400094
+    Bip001 L UpperArm:
+    - 100096
+    - 400096
+    Bip001 L Clavicle:
+    - 100098
+    - 400098
+    main_player_lorez:
+    - 100100
+    - 400100
+    - 13700000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: main_player_lorez
+    4300002: main_weapon001
+    4300004: Cylinder001
+    4300006: Cylinder002
+    4300008: Cylinder003
+    4300010: Cylinder004
+    4300012: Cylinder005
+    4300014: healthbar
+    7400000: Take 001 //// new_player
+    7400002: idle //// new_player
+    7400004: run_forward //// new_player
+    7400006: run_backward //// new_player
+    7400008: run_right //// new_player
+    7400010: run_left //// new_player
+    7400012: idle //// player
+    7400014: run_forward //// player
+    7400016: run_backward //// player
+    7400018: run_right //// player
+    7400020: run_left //// player
+    7400022: run_forward_old //// player
+    7400024: run_backward_old //// player
+    7400026: run_right_old //// player
+    7400028: run_left_old //// player
+    7400030: idle //// Player
+    7400032: run_forward //// Player
+    7400034: run_backward //// Player
+    7400036: run_right //// Player
+    7400038: run_left //// Player

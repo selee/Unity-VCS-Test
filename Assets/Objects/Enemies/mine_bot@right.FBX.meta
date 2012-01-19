@@ -1,0 +1,93 @@
+fileFormatVersion: 1
+guid: f8136785e54fd1d459d2a3a0849fe770
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.013
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 2
+    splitAnimations: 0
+  nodeInfo:
+    minebot_head:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    minebot_main:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    //RootNode:
+    - 100004
+    - 400004
+    - 11100000
+    minebot_front_lowerleg:
+    - 100006
+    - 400006
+    - 3300004
+    - 2300004
+    minebot_back_lowerleg:
+    - 100008
+    - 400008
+    - 3300006
+    - 2300006
+    minebot_front_upperleg:
+    - 100010
+    - 400010
+    - 3300008
+    - 2300008
+    minebot_left_lowerleg:
+    - 100012
+    - 400012
+    - 3300010
+    - 2300010
+    minebot_right_upperleg:
+    - 100014
+    - 400014
+    - 3300012
+    - 2300012
+    minebot_front_upperleg 1:
+    - 100016
+    - 400016
+    - 3300014
+    - 2300014
+    minebot_left_upperleg:
+    - 100018
+    - 400018
+    - 3300016
+    - 2300016
+    minebot_right_lowerleg:
+    - 100020
+    - 400020
+    - 3300018
+    - 2300018
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: minebot_main
+    4300002: minebot_right_upperleg
+    4300004: minebot_right_lowerleg
+    4300006: minebot_head
+    4300008: minebot_front_upperleg
+    4300010: minebot_back_lowerleg
+    4300012: minebot_left_upperleg
+    4300014: minebot_left_lowerleg
+    4300016: minebot_front_upperleg
+    4300018: minebot_front_lowerleg
+    7400000: Take 001 //// right
+    7400002: Take 001 //// mine_bot@right

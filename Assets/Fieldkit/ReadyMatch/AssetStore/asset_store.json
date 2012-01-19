@@ -1,0 +1,12 @@
+{
+	"publisher_id": 0,
+	"publisher_package_id": 0,
+	"title": "ReadyMatch",
+	"description": "<p><strong>FieldKit ReadyMatch</strong> is the fastest, easiest way to add multiplayer matchmaking to Unity games on – or across – any platform. Let your players instantly find each other and play together with no hassle to you or them.</p><br>\n<p>So easy a producer can do it! Be up and running in a matter of minutes.  No complex UI to design – just drop in a “Play Now” button and you’re done.</p><br>\n<p>Sign your game up for service at <br><a href=\"https://fieldkit.poweredbygamespy.com\">fieldkit.poweredbygamespy.com</a>, paste your application ID into Unity and play!</p>",
+	"changes": "Initial release.",
+	"version_name": "1.0",
+	"category": 124,
+	"price": "100",
+	"recommended_features": [],
+	"required_features": []
+}

@@ -1,0 +1,48 @@
+fileFormatVersion: 1
+guid: 2bdc7526fa1604fc187ce1a04bba83b9
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.5
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+    generateSecondaryUV: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 133
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100014
+    - 400014
+    - 3300014
+    - 2300014
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: doorFrame
+    4300002: door
+    4300004: mainLock
+    4300006: bottomLock
+    4300008: bottomLockTumbler
+    4300010: leftLock
+    4300012: leftLockTumbler
+    4300014: rightLock
+    4300016: rightLockTumbler
+    4300018: doorFrame1

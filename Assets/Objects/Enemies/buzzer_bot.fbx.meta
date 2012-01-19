@@ -1,0 +1,58 @@
+fileFormatVersion: 1
+guid: 4c3741f92cecb5149acd928b39888247
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 1
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+    generateSecondaryUV: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    - 11100000
+    electric_buzzer_plasma:
+    - 100004
+    - 400004
+    - 3300002
+    - 2300002
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: Cylinder002
+    4300002: Line001
+    4300004: Box001
+    4300006: electric_buzzer_main
+    4300008: electric_buzzer_right_propellerarm
+    4300010: electric_buzzer_plasmapropeller
+    4300012: electric_buzzer_plasma_right
+    4300014: electric_buzzer_buzzgun
+    4300016: electric_buzzer_right_propellerarm001
+    4300018: electric_buzzer_plasmapropeller001
+    4300020: electric_buzzer_plasma_right001
+    4300022: Object004
+    4300024: buzzerbot_mainbody
+    4300026: electric_buzzer_plasma
+    4300028: buzzer

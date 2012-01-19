@@ -1,0 +1,100 @@
+fileFormatVersion: 1
+guid: d6150aa42a73e43ab8ade45d4eb122af
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.5
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 1
+    swapUVs: 0
+    generateSecondaryUV: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100000
+    - 400000
+    - 3300010
+    - 2300010
+    - 6400010
+    - 11100000
+    bottomLockTumbler:
+    - 100002
+    - 400002
+    - 3300000
+    - 2300000
+    - 6400000
+    leftLockTumbler:
+    - 100004
+    - 400004
+    - 3300002
+    - 2300002
+    - 6400002
+    bottomLock:
+    - 100006
+    - 400006
+    - 3300004
+    - 2300004
+    - 6400004
+    rightLockTumbler:
+    - 100008
+    - 400008
+    - 3300006
+    - 2300006
+    - 6400006
+    mainLock:
+    - 100012
+    - 400012
+    - 3300012
+    - 2300012
+    - 6400012
+    rightLock:
+    - 100014
+    - 400014
+    - 3300014
+    - 2300014
+    - 6400014
+    leftLock:
+    - 100016
+    - 400016
+    - 3300016
+    - 2300016
+    - 6400016
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface747
+    4300002: pCube1
+    4300004: pCylinder1
+    4300006: pCylinder2
+    4300008: pCylinder1
+    4300010: pCylinder2
+    4300012: pCylinder1
+    4300014: pCylinder2
+    4300016: polySurface749
+    4300018: pCylinder3
+    4300020: doorFrame
+    4300022: door
+    4300024: mainLock
+    4300026: bottomLock
+    4300028: bottomLockTumbler
+    4300030: leftLock
+    4300032: leftLockTumbler
+    4300034: rightLock
+    4300036: rightLockTumbler

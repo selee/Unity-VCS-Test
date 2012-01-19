@@ -1,0 +1,42 @@
+fileFormatVersion: 1
+guid: 81023d1f193944c3d99518b79b298cc9
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.5
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+    generateSecondaryUV: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 0
+    splitAnimations: 1
+  nodeInfo:
+    //RootNode:
+    - 100004
+    - 400004
+    - 3300000
+    - 2300000
+    - 11100000
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: polySurface5967
+    4300002: polySurface5968
+    4300004: polySurface5969
+    4300006: polySurface5970

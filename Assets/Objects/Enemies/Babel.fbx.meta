@@ -1,0 +1,169 @@
+fileFormatVersion: 1
+guid: ca26938abb08c49758611969c73e30c7
+ModelImporter:
+  importerVersion: 7
+  meshes:
+    scaleFactor: 0.5
+    useFileUnits: 1
+    meshCompression: 0
+    generateColliders: 0
+    swapUVs: 0
+    generateSecondaryUV: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalImportMode: 0
+    tangentImportMode: 1
+    smoothingAngle: 60
+    splitTangents: 1
+  materials:
+    generation: 1
+  animations:
+    generation: 3
+    bakeAnimations: 0
+    animationCompression: 1
+    animationWrapMode: 2
+    splitAnimations: 1
+  nodeInfo:
+    pCylinder65:
+    - 100000
+    - 400000
+    - 3300000
+    - 2300000
+    polySurface5763:
+    - 100002
+    - 400002
+    - 3300002
+    - 2300002
+    polySurface5762:
+    - 100004
+    - 400004
+    - 3300004
+    - 2300004
+    polySurface5764:
+    - 100006
+    - 400006
+    - 3300006
+    - 2300006
+    pPipe28:
+    - 100008
+    - 400008
+    - 3300008
+    - 2300008
+    //RootNode:
+    - 100010
+    - 400010
+    - 11100000
+    polySurface5761:
+    - 100012
+    - 400012
+    - 3300010
+    - 2300010
+    pPipe26:
+    - 100014
+    - 400014
+    - 3300012
+    - 2300012
+    pCylinder64:
+    - 100016
+    - 400016
+    pPipe22:
+    - 100018
+    - 400018
+    - 3300016
+    - 2300016
+    pPipe24:
+    - 100020
+    - 400020
+    - 3300018
+    - 2300018
+    polySurface5765:
+    - 100022
+    - 400022
+    polySurface5766:
+    - 100024
+    - 400024
+    - 3300020
+    - 2300020
+    pPipe27:
+    - 100026
+    - 400026
+    - 3300022
+    - 2300022
+    pPipe29:
+    - 100028
+    - 400028
+    - 3300014
+    - 2300014
+    polySurface5768:
+    - 100030
+    - 400030
+    - 3300026
+    - 2300026
+    polySurface5767:
+    - 100032
+    - 400032
+    - 3300028
+    - 2300028
+    pPipe30:
+    - 100034
+    - 400034
+    - 3300024
+    - 2300024
+    polySurface5771:
+    - 100036
+    - 400036
+    - 3300030
+    - 2300030
+    polySurface5770:
+    - 100038
+    - 400038
+    - 3300032
+    - 2300032
+    polySurface5772:
+    - 100040
+    - 400040
+    - 3300034
+    - 2300034
+    polySurface5769:
+    - 100042
+    - 400042
+    - 3300036
+    - 2300036
+AssetImporter:
+  importerVersion: 1
+  fileIDToRecycleName:
+    4300000: pCylinder64
+    4300002: pPipe19
+    4300004: pPipe20
+    4300006: pPipe21
+    4300008: pPipe22
+    4300010: pPipe23
+    4300012: pPipe24
+    4300014: pPipe25
+    4300016: pPipe26
+    4300018: pPipe27
+    4300020: pCylinder65
+    4300022: transform2
+    4300024: transform3
+    4300026: transform4
+    4300028: transform1
+    4300030: polySurface5761
+    4300032: polySurface5762
+    4300034: polySurface5763
+    4300036: polySurface5764
+    4300038: transform5
+    4300040: polySurface5765
+    4300042: polySurface5766
+    4300044: pPipe28
+    4300046: polySurface5767
+    4300048: polySurface5768
+    4300050: pPipe29
+    4300052: pPipe30
+    4300054: polySurface5769
+    4300056: polySurface5770
+    4300058: polySurface5771
+    4300060: polySurface5772
+    7400000: Take 001 //// Babel
